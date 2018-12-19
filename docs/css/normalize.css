@@ -340,9 +340,5 @@ template {
   display: none;
 }
 
-.jumbotron {
-  background-color:transparent !important;
-  background: url("https://media.istockphoto.com/photos/template-timeline-infographic-illustration-with-numbered-positions-9-picture-id802459330");
-  background-size: 500px;
-  text-align: center;
-}
+
+

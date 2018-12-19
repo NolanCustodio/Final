@@ -1,0 +1,48 @@
+body {
+  background-color: whitesmoke;
+}
+
+.jumbotron {
+  background-color:transparent !important;
+  background: url("https://media.istockphoto.com/photos/template-timeline-infographic-illustration-with-numbered-positions-9-picture-id802459330");
+  background-size: 550px;
+  height: 450px;
+  text-align: center;
+
+}
+
+
+.second_jumbotron {
+  background-image: url("../img/infographic.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 600px;
+}
+
+.third_jumbotron {
+  background-image: url("../img/timeline.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 840px;
+}
+.text_center {
+  text-align: center;
+}
+
+.top_padding {
+  padding-top: 30px;
+}
+
+.font {
+  font-family: "Helvetica", "Helvetica Neue", sans-serif;
+}
+
+.white_text {
+  color: white;
+}
+
+.bottom_line {
+  border-bottom: 1px;
+}
